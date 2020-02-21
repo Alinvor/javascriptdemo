@@ -1,0 +1,7 @@
+
+build/
+mock/
+log/
+
+*.log
+**/.DS_Store
