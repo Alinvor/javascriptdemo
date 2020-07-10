@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.html": "html"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+        // "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "html.format.endWithNewline": true,
+    "html.format.extraLiners": "",
+}
