@@ -1,2 +1,3 @@
-# javascript_demo
+# javascript demo
+
 this is javascript demo project
